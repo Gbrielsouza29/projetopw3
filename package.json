@@ -1,0 +1,24 @@
+{
+  "name": "cadastromateriais",
+  "version": "1.0.0",
+  "description": "sistema para armazenar materiais recebidos em uma escola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "sequelize",
+    "mysql",
+    "pw3",
+    "choro",
+    "lagrimas"
+  ],
+  "author": "Gabriel Henrique de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.0"
+  }
+}
